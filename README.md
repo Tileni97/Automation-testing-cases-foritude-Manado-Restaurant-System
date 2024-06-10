@@ -1,4 +1,4 @@
-The GitHub repository "Automation-testing-cases-for-iude-Manado-Restaurant-System" contains test cases designed to evaluate the functionality and localization of the iTude Manado Restaurant System website.
+This repository contains test cases designed to evaluate the functionality and localization of the iTude Manado Restaurant System website.
 
 Smoke Tests (Test Cases - Smoke Testing.pdf)
 These tests verify the essential functions of the website, ensuring it's accessible on various devices and browsers, the navigation menu works, menu categories and sample dishes display correctly, and basic ordering functionality is intact. These tests are crucial for quickly assessing the website's overall health and identifying any major issues early on.
